@@ -7,7 +7,7 @@ pkg install php
 pkg install bash
 pkg install git
 git clone {FUZIRO}
-cd Spam-Call
+cd linux6
 git pull
 pip install requests
 pip install lolcat
